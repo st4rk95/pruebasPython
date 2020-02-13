@@ -6,7 +6,7 @@ palabra_introducida = str(input("Introduce una palabra: "))
 
 for i in range(len(palabra_introducida)):
 
-    if vocales.has_key(palabra_introducida[i]):
+    if palabra_introducida[i] in vocales:
         actualizarDiccionario = {palabra_introducida[i]: (vocales.get(palabra_introducida[i])+1)}
         vocales.update(actualizarDiccionario)
 
