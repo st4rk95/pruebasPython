@@ -62,6 +62,6 @@ Carpetas
             Preguntar por el NIF del cliente y mostrar sus datos.
             Mostrar lista de todos los clientes de la base datos con su NIF y nombre.
             Mostrar la lista de clientes preferentes de la base de datos con su NIF y nombre.
-            Terminar el programa.)*
+            Terminar el programa.) AÑADO OPCIÓN DE PODER EDITAR LOS DATOS DE UN CLIENTE*
     
 * **funciones_python.py** *(funciones útiles de python)* 
